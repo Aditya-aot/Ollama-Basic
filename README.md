@@ -1,5 +1,7 @@
 # Ollama-Basic
 
+Ollama is a tool that allows you to run open-source large language models (LLMs) locally on your machine. It supports a variety of models, including Llama 2, Code Llama, and others.
+
 Ollama allows you to run open-source large language models, such as Llama 2, locally.
 
 Ollama bundles model weights, configuration, and data into a single package, defined by a Modelfile.
