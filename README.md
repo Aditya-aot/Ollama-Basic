@@ -14,5 +14,5 @@ For a complete list of supported models and model variants, see the Ollama model
 pip install ollama
 ```
 
-
-![image  width='400' height='200'](https://github.com/Aditya-aot/Ollama-Basic/assets/67204555/427b81bf-03f9-421b-a7e0-a7d7896a3004  width='400' height='200')
+[<img src='https://github.com/Aditya-aot/Ollama-Basic/assets/67204555/427b81bf-03f9-421b-a7e0-a7d7896a3004' alt='github' width='400' height='200'>]
+![image'](https://github.com/Aditya-aot/Ollama-Basic/assets/67204555/427b81bf-03f9-421b-a7e0-a7d7896a3004)
