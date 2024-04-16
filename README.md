@@ -9,6 +9,7 @@ Ollama bundles model weights, configuration, and data into a single package, def
 It optimizes setup and configuration details, including GPU usage.
 
 For a complete list of supported models and model variants, see the Ollama model library.
+-------------------------------------------------------
 
 ```sh
 pip install ollama
