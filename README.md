@@ -17,7 +17,7 @@ pip install ollama
 <img src='https://github.com/Aditya-aot/Ollama-Basic/assets/67204555/427b81bf-03f9-421b-a7e0-a7d7896a3004' alt='github' width='150' height='150'>
 
 ## Usage
-
+--------------------------------------------------------
 ```python
 import ollama
 response = ollama.chat(model='llama2', messages=[
