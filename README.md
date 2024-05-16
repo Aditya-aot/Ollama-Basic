@@ -29,3 +29,11 @@ response = ollama.chat(model='llama2', messages=[
 ])
 print(response['message']['content'])
 ```
+
+<details>
+  <summary>... fix most crashes on startup?</summary>
+
+> You may have multiple mods loaded. Forge loads mods in alphabetical order, so you can change the name of the Mod jar to make it load earlier or later. Add for example an exclamation mark to lambda jar to make it load first.
+> If you got `Error: java.lang.IllegalAccessError: tried to access field net.minecraft.util.math.Vec3i.field_177962_a from class baritone.k` remove the `-noverify` tag from your arguments.
+
+</details>
